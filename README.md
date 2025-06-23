@@ -75,9 +75,10 @@ This repository contains 8 practice-oriented Python programs implemented with **
    cd menu-driven-python-practicals
 
 
-Run any program:
-1  install python :https://www.python.org/downloads/
-2  Setup :https://phoenixnap.com/kb/how-to-install-python-3-windows
-3  get clone :git clone https://github.com/raoshreepalpython-menu-driven-program-.
-4. cd menu-driven-python-practicals
-5. python program_name.py
+## Run any program:
+```
+- 1  install python :https://www.python.org/downloads/
+- 2  Setup :https://phoenixnap.com/kb/how-to-install-python-3-windows
+- 3  get clone :git clone https://github.com/raoshreepalpython-menu-driven-program-.
+- 4. cd menu-driven-python-practicals
+- 5. python program_name.py
