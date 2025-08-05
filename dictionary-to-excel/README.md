@@ -1,10 +1,14 @@
 
+
 ---
+
+<img width="2048" height="2048" alt="Gemini_Generated_Image_cskk58cskk58cskk" src="https://github.com/user-attachments/assets/b324f688-da4d-42d1-983e-b6b1e1706cf5" />
 
 ### 📄 `README.md`
 
 ````markdown
 # 📝 Dictionary to Excel Converter (User Input Based)
+![Uploading Gemini_Generated_Image_cskk58cskk58cskk.png…]()
 
 This Python program allows users to interactively create a dictionary by entering custom keys and multiple values for each key, and then exports the data to an Excel file. The program saves the Excel file **in the same directory as the Python script**.
 
